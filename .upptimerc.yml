@@ -8,6 +8,8 @@ sites:
     url: https://peludapi.korsinemi.link
   - name: Status
     url: https://status.korsinemi.link
+  - name: Docs
+    url: https://docs.korsinemi.link
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
