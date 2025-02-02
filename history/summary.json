@@ -24,7 +24,7 @@
     "slug": "pelud-api",
     "status": "down",
     "uptime": "75.21%",
-    "uptimeDay": "71.25%",
+    "uptimeDay": "71.38%",
     "uptimeWeek": "66.23%",
     "uptimeMonth": "57.52%",
     "uptimeYear": "75.21%",
@@ -96,16 +96,16 @@
     "url": "https://status.korsinemi.link",
     "icon": "https://icons.duckduckgo.com/ip3/status.korsinemi.link.ico",
     "slug": "status",
-    "status": "up",
-    "uptime": "54.13%",
+    "status": "down",
+    "uptime": "54.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "8.61%",
-    "uptimeYear": "54.13%",
+    "uptimeYear": "54.26%",
     "time": 104,
     "timeDay": 96,
     "timeWeek": 106,
-    "timeMonth": 103,
+    "timeMonth": 102,
     "timeYear": 104,
     "dailyMinutesDown": {
       "2025-02-02": 1440,
@@ -162,7 +162,7 @@
       "2024-08-26": 2880,
       "2024-08-25": 2880,
       "2024-08-24": 2880,
-      "2024-08-23": 1587
+      "2024-08-23": 1234
     }
   },
   {
