@@ -22,16 +22,16 @@
     "url": "https://peludapi.korsinemi.link",
     "icon": "https://icons.duckduckgo.com/ip3/peludapi.korsinemi.link.ico",
     "slug": "pelud-api",
-    "status": "up",
+    "status": "down",
     "uptime": "97.35%",
     "uptimeDay": "67.65%",
     "uptimeWeek": "30.99%",
-    "uptimeMonth": "79.09%",
+    "uptimeMonth": "79.13%",
     "uptimeYear": "97.35%",
     "time": 776,
-    "timeDay": 885,
-    "timeWeek": 948,
-    "timeMonth": 869,
+    "timeDay": 872,
+    "timeWeek": 933,
+    "timeMonth": 868,
     "timeYear": 776,
     "dailyMinutesDown": {
       "2025-03-28": 372,
@@ -46,7 +46,7 @@
       "2025-03-19": 314,
       "2025-03-18": 186,
       "2025-03-17": 535,
-      "2025-03-16": 476
+      "2025-03-16": 460
     }
   },
   {
@@ -54,19 +54,19 @@
     "url": "https://status.korsinemi.link",
     "icon": "https://icons.duckduckgo.com/ip3/status.korsinemi.link.ico",
     "slug": "status",
-    "status": "down",
-    "uptime": "96.62%",
+    "status": "up",
+    "uptime": "96.63%",
     "uptimeDay": "17.75%",
     "uptimeWeek": "5.97%",
-    "uptimeMonth": "73.38%",
-    "uptimeYear": "96.62%",
+    "uptimeMonth": "73.41%",
+    "uptimeYear": "96.63%",
     "time": 112,
-    "timeDay": 134,
-    "timeWeek": 133,
+    "timeDay": 133,
+    "timeWeek": 132,
     "timeMonth": 119,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-03-28": 981,
+      "2025-03-28": 988,
       "2025-03-27": 930,
       "2025-03-26": 1446,
       "2025-03-25": 1567,
@@ -75,7 +75,7 @@
       "2025-03-22": 1440,
       "2025-03-21": 1117,
       "2025-03-20": 1042,
-      "2025-03-19": 258
+      "2025-03-19": 239
     }
   },
   {
