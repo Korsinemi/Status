@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 101,
-    "timeWeek": 153,
+    "timeDay": 122,
+    "timeWeek": 152,
     "timeMonth": 131,
     "timeYear": 138,
     "dailyMinutesDown": {}
@@ -23,13 +23,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/peludapi.korsinemi.link.ico",
     "slug": "pelud-api",
     "status": "down",
-    "uptime": "97.41%",
-    "uptimeDay": "90.59%",
-    "uptimeWeek": "45.13%",
-    "uptimeMonth": "79.44%",
-    "uptimeYear": "97.41%",
+    "uptime": "97.39%",
+    "uptimeDay": "90.60%",
+    "uptimeWeek": "45.29%",
+    "uptimeMonth": "79.30%",
+    "uptimeYear": "97.39%",
     "time": 783,
-    "timeDay": 873,
+    "timeDay": 889,
     "timeWeek": 937,
     "timeMonth": 873,
     "timeYear": 783,
@@ -47,7 +47,7 @@
       "2025-03-19": 314,
       "2025-03-18": 186,
       "2025-03-17": 535,
-      "2025-03-16": 142
+      "2025-03-16": 202
     }
   },
   {
@@ -55,19 +55,19 @@
     "url": "https://status.korsinemi.link",
     "icon": "https://icons.duckduckgo.com/ip3/status.korsinemi.link.ico",
     "slug": "status",
-    "status": "up",
-    "uptime": "96.64%",
+    "status": "down",
+    "uptime": "96.62%",
     "uptimeDay": "46.86%",
     "uptimeWeek": "12.80%",
-    "uptimeMonth": "73.33%",
-    "uptimeYear": "96.64%",
+    "uptimeMonth": "73.21%",
+    "uptimeYear": "96.62%",
     "time": 112,
-    "timeDay": 112,
+    "timeDay": 111,
     "timeWeek": 126,
-    "timeMonth": 119,
+    "timeMonth": 118,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-03-29": 721,
+      "2025-03-29": 738,
       "2025-03-28": 1196,
       "2025-03-27": 930,
       "2025-03-26": 1446,
@@ -76,7 +76,7 @@
       "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1117,
-      "2025-03-20": 387
+      "2025-03-20": 426
     }
   },
   {
@@ -91,8 +91,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "86.34%",
     "time": 129,
-    "timeDay": 80,
-    "timeWeek": 115,
+    "timeDay": 66,
+    "timeWeek": 109,
     "timeMonth": 108,
     "timeYear": 129,
     "dailyMinutesDown": {
