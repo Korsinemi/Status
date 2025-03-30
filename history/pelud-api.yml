@@ -1,7 +1,7 @@
 url: https://peludapi.korsinemi.link
-status: up
-code: 200
-responseTime: 1655
-lastUpdated: 2025-03-30T04:17:53.503Z
+status: down
+code: 403
+responseTime: 110
+lastUpdated: 2025-03-30T04:47:23.004Z
 startTime: 2024-07-31T21:20:36.567Z
 generator: Upptime <https://github.com/upptime/upptime>
