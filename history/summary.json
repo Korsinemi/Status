@@ -60,14 +60,14 @@
     "url": "https://status.korsinemi.link",
     "icon": "https://icons.duckduckgo.com/ip3/status.korsinemi.link.ico",
     "slug": "status",
-    "status": "up",
-    "uptime": "98.42%",
-    "uptimeDay": "41.49%",
+    "status": "down",
+    "uptime": "98.45%",
+    "uptimeDay": "41.48%",
     "uptimeWeek": "73.33%",
-    "uptimeMonth": "86.99%",
-    "uptimeYear": "98.42%",
+    "uptimeMonth": "87.20%",
+    "uptimeYear": "98.45%",
     "time": 115,
-    "timeDay": 153,
+    "timeDay": 151,
     "timeWeek": 124,
     "timeMonth": 122,
     "timeYear": 115,
@@ -82,7 +82,7 @@
       "2025-04-01": 560,
       "2025-03-31": 1255,
       "2025-03-30": 860,
-      "2025-03-29": 364
+      "2025-03-29": 273
     }
   },
   {
