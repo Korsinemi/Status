@@ -26,12 +26,12 @@
     "uptime": "97.51%",
     "uptimeDay": "96.03%",
     "uptimeWeek": "94.19%",
-    "uptimeMonth": "79.44%",
+    "uptimeMonth": "79.48%",
     "uptimeYear": "97.51%",
     "time": 821,
     "timeDay": 1033,
-    "timeWeek": 1003,
-    "timeMonth": 910,
+    "timeWeek": 1008,
+    "timeMonth": 911,
     "timeYear": 821,
     "dailyMinutesDown": {
       "2025-04-08": 21,
@@ -52,7 +52,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 395
+      "2025-03-21": 376
     }
   },
   {
@@ -60,14 +60,14 @@
     "url": "https://status.korsinemi.link",
     "icon": "https://icons.duckduckgo.com/ip3/status.korsinemi.link.ico",
     "slug": "status",
-    "status": "up",
-    "uptime": "98.44%",
-    "uptimeDay": "39.76%",
+    "status": "down",
+    "uptime": "98.45%",
+    "uptimeDay": "39.75%",
     "uptimeWeek": "73.08%",
-    "uptimeMonth": "87.14%",
-    "uptimeYear": "98.44%",
+    "uptimeMonth": "87.18%",
+    "uptimeYear": "98.45%",
     "time": 115,
-    "timeDay": 151,
+    "timeDay": 142,
     "timeWeek": 124,
     "timeMonth": 122,
     "timeYear": 115,
@@ -82,7 +82,7 @@
       "2025-04-01": 560,
       "2025-03-31": 1255,
       "2025-03-30": 860,
-      "2025-03-29": 273
+      "2025-03-29": 257
     }
   },
   {
