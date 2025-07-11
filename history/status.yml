@@ -1,7 +1,7 @@
 url: https://status.korsinemi.link
-status: up
-code: 200
-responseTime: 151
-lastUpdated: 2025-07-10T23:12:45.269Z
+status: down
+code: 403
+responseTime: 108
+lastUpdated: 2025-07-11T11:47:49.363Z
 startTime: 2024-07-31T21:20:37.146Z
 generator: Upptime <https://github.com/upptime/upptime>
