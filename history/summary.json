@@ -4,19 +4,19 @@
     "url": "https://korsinemi.link",
     "icon": "https://icons.duckduckgo.com/ip3/korsinemi.link.ico",
     "slug": "korsinemi",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 135,
-    "timeDay": 133,
-    "timeWeek": 121,
-    "timeMonth": 125,
-    "timeYear": 135,
+    "time": 136,
+    "timeDay": 153,
+    "timeWeek": 127,
+    "timeMonth": 127,
+    "timeYear": 136,
     "dailyMinutesDown": {
-      "2025-07-14": 0
+      "2025-07-14": 11
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 163,
     "timeYear": 840,
     "dailyMinutesDown": {
-      "2025-07-14": 1290,
+      "2025-07-14": 1301,
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 207,
@@ -113,7 +113,7 @@
     "timeMonth": 150,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-07-14": 2580,
+      "2025-07-14": 2613,
       "2025-07-13": 2880,
       "2025-07-12": 2880,
       "2025-07-11": 565,
