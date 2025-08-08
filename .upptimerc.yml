@@ -1,23 +1,23 @@
-owner: Korsinemi
+owner: Aqualunem
 repo: Status
 
 sites:
-  - name: Korsinemi
-    url: https://korsinemi.link
+  - name: Aqualunem Studio
+    url: https://aqualunem.studio
   - name: PeludAPI
     url: https://peludapi.korsinemi.link
   - name: Status
-    url: https://status.korsinemi.link
+    url: https://status.aqualunem.studio
   - name: Docs
-    url: https://docs.korsinemi.link/soon
+    url: https://docs.aqualunem.studio/soon
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.korsinemi.link
+  cname: status.aqualunem.studio
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: 💜 Korsinemi Status
+  name: 💙 Aqualunem Status
   introTitle: "**Status**"
   introMessage: Bienvenido a mi página de status - Aqui puedes ver la disponibilidad de mis servicios 
   navbar:
